@@ -20,3 +20,5 @@ You can view a live preview of this template [here](https://cloud-template-html-
    ```bash
    https://github.com/Intigam-M/cloud-template.git
    ```
+
+2. Open the `index.html` file in your web browser to view the template.
